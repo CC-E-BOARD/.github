@@ -7,7 +7,7 @@ Welcome to the **🌟 Code Crunch Club 🌟** repository! This is where we showc
 ## 🛑 Note for Members  
 The **CC-E-BOARD GitHub Organization** is currently **only available for e-board members**.  
 If you are an e-board member, you can access the organization at the following link:  
-👉 **[CC-E-BOARD GitHub Organization](https://github.com/CODE-CRUNCH-CLUB)**  
+👉 **[CODE CRUNCH CLUB GitHub Organization](https://github.com/CODE-CRUNCH-CLUB)**  
 
 If you’re not an e-board member but want to contribute or stay involved, check out our public resources and events listed below!
 
